@@ -1,4 +1,3 @@
 Salutations!
 
-I am Moe! I am Pansexual, and am a Beginner Dev, with hopes to be a Game and Web Developer in my future career.
-
+I develop shit mainly that I think I would use or enjoy, and mainly in my own time.
